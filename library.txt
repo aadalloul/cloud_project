@@ -1,0 +1,14 @@
+pip install streamlit pandas pyspark pdfplumber pymongo
+
+
+حمّل Spark من:
+https://spark.apache.org/downloads.html
+اختر:
+
+Spark 3.x
+
+
+
+streamlit run app.py لتشغيل الcloud ويظهر GUI
+
+
